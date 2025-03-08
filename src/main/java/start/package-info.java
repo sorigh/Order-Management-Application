@@ -1,0 +1,4 @@
+/**
+ * pornirea proiectului
+ */
+package start;
